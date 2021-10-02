@@ -12,11 +12,13 @@ print (red+b+"""
 
 
 
-                    ****     **   *  *     *  *    ** * *        ** * *    ** * *       
-                    **  *    ** *      * *      *  **    *       **     *  **     *      
-                    **   *   ** *      * *      *  *****    ***  **     *  **     *   
-                    **    *  **   *  *     *  *    **    *       **     *  **     *    
-                    **     ****                    ** * *        ** * *    ** * *       
+
+
+           ****     **   *  *     *  *    ** * *        ** * *    ** * *       
+           **  *    ** *      * *      *  **    *       **     *  **     *      
+           **   *   ** *      * *      *  *****    ***  **     *  **     *   
+           **    *  **   *  *     *  *    **    *       **     *  **     *    
+           **     ****                    ** * *        ** * *    ** * *       
 
 
 
@@ -24,7 +26,7 @@ print (red+b+"""
 
 print (gren+b+"            <===[[ coded by NOOB-BD-HACKER ]]===>"+b+gren)
 print (" ")
-print (yellow+b+"     <---( Search on you tube NOOB-BD-HACKER )--->"+b+yellow)
+print (yellow+b+"       <---( Search on you tube NOOB-BD-HACKER )--->"+b+yellow)
 print (" ")
 
 length=int(raw_input(cyan+b+"Enter the number of characters: "+b+cyan))
