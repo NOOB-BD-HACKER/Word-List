@@ -6,11 +6,15 @@ $ apt-get update -y
 
 $ apt-get upgrade -y
 
-$ pkg install python2 
+$ pkg install python 
 
 $ pkg install python -y
 
+$ Pkg install python2 
+
 $ pkg install python2 -y
+
+$ pkg install git 
 
 $ pkg install git -y
 
