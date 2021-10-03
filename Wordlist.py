@@ -1,4 +1,5 @@
-#import time
+import time
+import os
 #code edit from lazybee 
 #colors
 red='\033[91m'
