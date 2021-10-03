@@ -1,0 +1,23 @@
+# Word-List
+
+
+
+$ apt-get update -y
+
+$ apt-get upgrade -y
+
+$ pkg install python2 
+
+$ pkg install python -y
+
+$ pkg install python2 -y
+
+$ pkg install git -y
+
+$ pip install lolcat
+
+$ git clone https://github.com/NOOB-BD-HACKER/Word-List
+
+$ cd Word-List
+
+$ python2 Wordlist.py
